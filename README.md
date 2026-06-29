@@ -7,17 +7,29 @@ A productivity timer built using an Arduino Pro Micro and an SSD1306 OLED displa
 This repository contains the firmware for the project. The hardware is still under development.
 
 Features
-OLED-based graphical user interface
+
 Four independent productivity timers:
+
 GATE Preparation
+
 Exercise
+
 Study
+
 Meditation
+
 Three-button navigation
+
 Session start/stop functionality
-EEPROM data persistence
+
+EEPROM data preservation
+
 Tracks:
+
 Total time spent
+
 Number of sessions
+
 Average session duration
+
 Custom bitmap menu interface
