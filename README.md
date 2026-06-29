@@ -5,6 +5,7 @@ Productivity Timer (Firmware) is only available at this stage of development.
 A productivity timer built using an Arduino Pro Micro and an SSD1306 OLED display.
 
 This repository contains the firmware for the project. The hardware is still under development.
+
 NOTE:
 --> Designed and edited the menus using GIMP
 
